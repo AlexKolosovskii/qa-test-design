@@ -82,4 +82,4 @@
 ---
 
 ## 📎 Ссылки
-- [Google Sheets: Анализ формы](https://docs.google.com/spreadsheets/d/1cfExBxwPwqtWj1ddC_EKnEvNjuLnybykongvdhNHbYg/edit?gid=0#gid=0) 
+- [Google Sheets: Анализ формы](https://docs.google.com/spreadsheets/d/1cfExBxwPwqtWj1ddC_EKnEvNjuLnybykongvdhNHbYg/edit?usp=sharing) 

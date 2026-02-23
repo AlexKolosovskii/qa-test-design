@@ -87,7 +87,6 @@
 | **OS** | Windows 11 |
 | **Browser** | Chrome 145.0.7632.77 |
 | **URL стенда** | https://demoshopping.ru |
-| **Платёжный шлюз** | PayPal Sandbox (test mode) |
 
 ---
 
